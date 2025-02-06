@@ -46,9 +46,6 @@ python train.py --dataset path/to/dataset
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to improve.
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
 ## Contact
 For inquiries, reach out at ananya.sakhalkar11@gmail.com or open an issue in the repository.
 
