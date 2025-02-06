@@ -1,5 +1,4 @@
 # Plant-Disease-Detection-System
-# Plant Disease Detection System
 
 ## Overview
 The **Plant Disease Detection System** is a machine learning-based application that identifies plant diseases using leaf images. It utilizes deep learning models like CNNs (e.g., ResNet or DenseNet) to classify plant diseases and provide treatment recommendations, aiding farmers and gardeners in early intervention.
